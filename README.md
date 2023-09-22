@@ -1,3 +1,3 @@
 # multiplicationApp
 
-Live Demo: https://asliddinamir.github.io/mutiplicationApp/
+Live Demo: https://aa-multiplication-app.netlify.app/
